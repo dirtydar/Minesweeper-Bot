@@ -1,1 +1,2 @@
 You have to do a bit of things to make this run first of all run it on 1920x1080 resolution monitor. Got to the minesweeper website https://minesweeperonline.com/#beginner This is only for the beginner difficulity. The progrom sometimes gets stuck on the Loop so you might have to rerun it. If it starts doing clicks infinitely, you can just push you cursor to the top left and it will show an error.
+This is how it should look like so that it can run perfectly https://imgbox.com/ooAdseob
